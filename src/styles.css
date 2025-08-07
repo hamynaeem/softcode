@@ -1,1 +1,6 @@
-/* You can add global styles to this file, and also import other style files */
+#why-us .card {
+  transition: transform 0.3s ease;
+}
+#why-us .card:hover {
+  transform: translateY(-5px);
+}
