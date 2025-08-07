@@ -9,6 +9,9 @@
     "test": "ng test",
     "serve:ssr:softcode": "node dist/softcode/server/server.mjs"
   },
+  "engines": {
+    "node": "20.11.1"
+  },
   "prettier": {
     "overrides": [
       {
