@@ -22,24 +22,24 @@
       }
     ]
   },
-  "dependencies": {
-    "@angular/common": "17.3.9",
-    "@angular/compiler": "17.3.9",
-    "@angular/core": "17.3.9",
-    "@angular/forms": "17.3.9",
-    "@angular/platform-browser": "17.3.9",
-    "@angular/platform-browser-dynamic": "17.3.9",
-    "@angular/platform-server": "17.3.9",
-    "@angular/router": "17.3.9",
-    "@angular/ssr": "17.3.9",
-    "@angular/fire": "^17.1.1",
-    "aos": "^2.3.4",
-    "bootstrap": "^5.3.7",
-    "express": "^5.1.0",
-    "firebase": "^10.14.1",
-    "rxjs": "~7.8.0",
-    "tslib": "^2.3.0"
-  },
+"dependencies": {
+  "@angular/common": "17.3.9",
+  "@angular/compiler": "17.3.9",
+  "@angular/core": "17.3.9",
+  "@angular/forms": "17.3.9",
+  "@angular/platform-browser": "17.3.9",
+  "@angular/platform-browser-dynamic": "17.3.9",
+  "@angular/platform-server": "17.3.9",
+  "@angular/router": "17.3.9",
+  "@angular/ssr": "17.3.9",
+"@angular/fire": "^17.1.1",
+  "aos": "^2.3.4",
+  "bootstrap": "^5.3.7",
+  "express": "^5.1.0",
+  "firebase": "^10.14.1",
+  "rxjs": "~7.8.0",
+  "tslib": "^2.3.0"
+},
   "devDependencies": {
     "@angular-devkit/build-angular": "17.3.9",
     "@angular/cli": "17.3.9",
