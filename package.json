@@ -10,7 +10,7 @@
     "serve:ssr:softcode": "node dist/softcode/server/server.mjs"
   },
   "engines": {
-    "node": "20.11.1"
+"node": "20.x"
   },
   "prettier": {
     "overrides": [
